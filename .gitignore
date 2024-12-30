@@ -1,0 +1,15 @@
+__pycache__/
+.ipynb_checkpoints/
+processed
+outputs
+outputs_v2
+checkpoints
+src/resources/checkpoints_v2/
+trash
+examples*
+.env
+build
+*.egg-info/
+*.zip
+_sample_.*
+.idea
